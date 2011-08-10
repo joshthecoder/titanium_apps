@@ -5,8 +5,5 @@ off Titanium Desktop features and for testing.
 
 Running App
 -----------
-Either use tibuild.py:
-  > tibuild.py -t bundle HelloWorld/
-
-Or import it into Titanium Studio.
+You can import the app into Titanium Studio or use tibuild.py directly.
 
